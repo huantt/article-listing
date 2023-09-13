@@ -1,0 +1,159 @@
+[
+  {
+    "url": "https://dev.to/jacktt/creating-dynamic-readmemd-file-388o",
+    "title": "Creating Dynamic README.md File",
+    "description": "This is my Github Profile. The specific thing here is that the weather is updated every 6 hours...",
+    "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--9aLNv3pz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/urlpgle748e1db4sw81v.png",
+    "author": "Jack",
+    "created_at": "2023-09-09T13:09:24Z",
+    "updated_at": null,
+    "tags": [
+      "git",
+      "cicd",
+      "devops",
+      "go"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g",
+    "title": "Search Goole Like a Pro [Cheat sheet]",
+    "description": "Before reading my article, let's try searching the following input:    inurl:/jacktt/ site:dev.to    ...",
+    "thumbnail": "",
+    "author": "Jack",
+    "created_at": "2023-08-30T10:49:04Z",
+    "updated_at": null,
+    "tags": [
+      "tutorial",
+      "learning",
+      "google"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/go-build-in-advance-4o8n",
+    "title": "Advanced Go Build Techniques",
+    "description": "Table of contents   Build options Which file will be included Build tags Build contraints           ...",
+    "thumbnail": "",
+    "author": "Jack",
+    "created_at": "2023-08-30T06:25:09Z",
+    "updated_at": null,
+    "tags": [
+      "go",
+      "development",
+      "devops",
+      "backend"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/load-private-module-in-golang-project-122l",
+    "title": "Load Private Module in Golang Project",
+    "description": "Table of Contents    I. How Does go get Work? II. How to Load Private Modules III. Build...",
+    "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZviKv8F5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5m3kjdhd57zgk0xpcdr.png",
+    "author": "Jack",
+    "created_at": "2023-08-12T09:12:22Z",
+    "updated_at": null,
+    "tags": [
+      "go",
+      "devops",
+      "backend"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/speed-up-your-query-in-postgres-48e3",
+    "title": "Speed up your query in Postgres",
+    "description": "Table of contents    Indexing Use EXPLAIN ANALYZE Use UNION Instead of OR to Use Index Use...",
+    "thumbnail": "",
+    "author": "Jack",
+    "created_at": "2023-06-23T02:01:05Z",
+    "updated_at": null,
+    "tags": [
+      "database"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/kafka-dump-backup-restore-stream-1fee",
+    "title": "Kafka dump: backup, restore, stream,...",
+    "description": "Source code   Kafka dump           Kafka data backup   Kafka dump is a tool to back up and...",
+    "thumbnail": "",
+    "author": "Jack",
+    "created_at": "2023-06-28T01:46:20Z",
+    "updated_at": null,
+    "tags": [
+      "go",
+      "opensource"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/implement-rate-limit-in-golang-l4g",
+    "title": "Implement rate limit in Golang",
+    "description": "This is a short code that demo how to implement rate limit in Golang.    package main  import (    ...",
+    "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--ET8llk7K--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b1valhxbvuljnyazbgx1.jpg",
+    "author": "Jack",
+    "created_at": "2023-06-23T10:41:23Z",
+    "updated_at": null,
+    "tags": [
+      "go"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/exploring-some-powerful-features-of-golang-5f71",
+    "title": "Exploring some Powerful Features of Golang",
+    "description": "Table of content    Goroutines Channel Buffered Channel Defer Select Plugin Binary...",
+    "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--ZyeXTtkm--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/bn7oslniwaecdfif2vqc.png",
+    "author": "Jack",
+    "created_at": "2023-06-22T01:34:27Z",
+    "updated_at": null,
+    "tags": [
+      "go"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-13l2",
+    "title": "Multiple git configs (profiles) on one computer",
+    "description": "How to let git know which profile should be used in specific folders?   Imagine that you’re...",
+    "thumbnail": "",
+    "author": "Jack",
+    "created_at": "2023-06-21T06:41:16Z",
+    "updated_at": null,
+    "tags": [
+      "git"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/solidity-reentrancy-vulnerability-13o9",
+    "title": "[Solidity] Reentrancy vulnerability",
+    "description": "What is Reentrancy vulnerability   Reentrancy vulnerability is a type of vulnerability that...",
+    "thumbnail": "",
+    "author": "Jack",
+    "created_at": "2023-06-21T06:35:58Z",
+    "updated_at": null,
+    "tags": [
+      "solidity",
+      "blockchain",
+      "security"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/decentralized-exchange-limit-order-why-not-24m3",
+    "title": "Decentralized Exchange limit-order — Why not?",
+    "description": "What is limit-order feature?   Imagine you’re trading Token A at a price of $0.1, and your...",
+    "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--YKAQN_PN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ysxj2be4l3i2dlss1mrk.png",
+    "author": "Jack",
+    "created_at": "2023-06-21T06:31:49Z",
+    "updated_at": null,
+    "tags": [
+      "blockchain"
+    ]
+  },
+  {
+    "url": "https://dev.to/jacktt/plugin-in-golang-4m67",
+    "title": "Plugin in Golang",
+    "description": "Golang plugin implementation   This repository explores the plugin feature introduced in Go...",
+    "thumbnail": "https://res.cloudinary.com/practicaldev/image/fetch/s--LGq4pYkq--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/3tnmfs7et7jy7l007xd8.png",
+    "author": "Jack",
+    "created_at": "2023-06-21T06:29:45Z",
+    "updated_at": null,
+    "tags": [
+      "go"
+    ]
+  }
+]

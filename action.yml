@@ -1,0 +1,24 @@
+name: 'Article updater'
+description: 'Collect articles then lists to README.md'
+inputs:
+  username:
+    description: 'Username'
+    required: true
+  template-file:
+    description: 'Template file path'
+    required: true
+  out-file:
+    description: 'Output file path'
+    required: true
+  limit:
+    description: 'Limit number of articles'
+    required: false
+    default: '5'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args:
+    - --limit=${{ inputs.limit }}
+    - --username=${{ inputs.username }}
+    - --template-file=${{ inputs.template-file }}
+    - --out-file=${{ inputs.out-file }}
