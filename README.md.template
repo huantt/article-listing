@@ -52,7 +52,12 @@ jobs:
 **Step 5**: Commit your change, then Github actions will run as your specified cron to update Articles into your README.md file
 
 ## Below is my recent articles {{ .Author }} collected from dev.to
+### Table
 
+{{ template "article-table" .Articles }}
+
+
+### List
 {{ template "article-list" .Articles }}
 
 *Updated at: {{ formatTime .Time }}*
