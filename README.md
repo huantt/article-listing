@@ -52,7 +52,54 @@ jobs:
 **Step 5**: Commit your change, then Github actions will run as your specified cron to update Articles into your README.md file
 
 ## Below is my recent articles Jack collected from dev.to
+### Table
 
+
+<table>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9aLNv3pz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/urlpgle748e1db4sw81v.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/creating-dynamic-readmemd-file-388o">Creating Dynamic README.md File</a>
+                <div>This is my Github Profile. The specific thing here is that the weather is updated every 6 hours...</div>
+                <div><i>09/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g">Search Goole Like a Pro [Cheat sheet]</a>
+                <div>Before reading my article, let&#39;s try searching the following input:    inurl:/jacktt/ site:dev.to    ...</div>
+                <div><i>30/08/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/go-build-in-advance-4o8n">Advanced Go Build Techniques</a>
+                <div>Table of contents   Build options Which file will be included Build tags Build contraints           ...</div>
+                <div><i>30/08/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZviKv8F5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5m3kjdhd57zgk0xpcdr.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/load-private-module-in-golang-project-122l">Load Private Module in Golang Project</a>
+                <div>Table of Contents    I. How Does go get Work? II. How to Load Private Modules III. Build...</div>
+                <div><i>12/08/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/speed-up-your-query-in-postgres-48e3">Speed up your query in Postgres</a>
+                <div>Table of contents    Indexing Use EXPLAIN ANALYZE Use UNION Instead of OR to Use Index Use...</div>
+                <div><i>23/06/2023</i></div>
+            </td>
+        </tr>
+</table>
+
+
+### List
 
 - [Creating Dynamic README.md File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o) - 09/09/2023
 - [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g) - 30/08/2023
@@ -60,4 +107,4 @@ jobs:
 - [Load Private Module in Golang Project](https://dev.to/jacktt/load-private-module-in-golang-project-122l) - 12/08/2023
 - [Speed up your query in Postgres](https://dev.to/jacktt/speed-up-your-query-in-postgres-48e3) - 23/06/2023
 
-*Updated at: 2023-09-13T13:14:26Z*
+*Updated at: 2023-09-13T15:12:09Z*
