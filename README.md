@@ -51,13 +51,13 @@ jobs:
 
 **Step 5**: Commit your change, then Github actions will run as your specified cron to update Articles into your README.md file
 
-## Below is my recent articles Jack collected from dev.to
+## Below is my recent articles Sloan the DEV Moderator collected from dev.to
 
 
-- [Creating Dynamic README.md File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o) - 09/09/2023
-- [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g) - 30/08/2023
-- [Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n) - 30/08/2023
-- [Load Private Module in Golang Project](https://dev.to/jacktt/load-private-module-in-golang-project-122l) - 12/08/2023
-- [Speed up your query in Postgres](https://dev.to/jacktt/speed-up-your-query-in-postgres-48e3) - 23/06/2023
+- [Welcome Thread - v242](https://dev.to/devteam/welcome-thread-v242-1b40) - 01/09/2023
+- [Creating a Quantum Computing Portfolio Segment Using Variational Quantum Eigensolver](https://dev.to/aws/creating-a-quantum-computing-portfolio-segment-using-variational-quantum-eigensolver-ioc) - 13/09/2023
+- [Silver Screen Code: What&#39;s Your Job&#39;s Movie Genre?](https://dev.to/codenewbieteam/silver-screen-code-whats-your-jobs-movie-genre-49l7) - 11/09/2023
+- [How Do You Create Inclusive Workplaces?](https://dev.to/devteam/how-do-you-create-inclusive-workplaces-d5m) - 05/09/2023
+- [What is your Why?](https://dev.to/acoh3n/what-is-your-why-j9b) - 13/09/2023
 
-*Updated at: 2023-09-13T19:51:42&#43;07:00*
+*Updated at: 2023-09-13T13:12:17Z*
