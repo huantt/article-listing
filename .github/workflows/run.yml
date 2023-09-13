@@ -14,6 +14,8 @@ jobs:
       - name: Update articles
         uses: huantt/article-listing@v1.0.0
         with:
+          username: jacktt
+          limit: 5
           template-file: 'README.md.template'
           out-file: 'README.md'
       - name: Commit
