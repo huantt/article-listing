@@ -107,4 +107,4 @@ jobs:
 - [Load Private Module in Golang Project](https://dev.to/jacktt/load-private-module-in-golang-project-122l) - 12/08/2023
 - [Speed up your query in Postgres](https://dev.to/jacktt/speed-up-your-query-in-postgres-48e3) - 23/06/2023
 
-*Updated at: 2023-09-13T18:27:25Z*
+*Updated at: 2023-09-14T01:20:31Z*
