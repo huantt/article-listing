@@ -2,7 +2,9 @@
 <table>
     {{- range $i, $article := .}}
         <tr>
-            <td width="300px"><img src="{{- if ne $article.Thumbnail ""}}{{ $article.Thumbnail }}{{- else}}{{`data/images/default-thumbnail.png`}}{{- end}}" alt="thumbnail"></td>
+            <td width="300px">
+                <a href="{{$article.Url}}"><img src="{{- if ne $article.Thumbnail ""}}{{ $article.Thumbnail }}{{- else}}{{`data/images/default-thumbnail.png`}}{{- end}}" alt="thumbnail"></a>
+            </td>
             <td>
                 <a href="{{ $article.Url }}">{{ truncateByWords $article.Title 10 }}</a>
                 <div>{{ $article.Description }}</div>

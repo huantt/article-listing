@@ -10,7 +10,7 @@ import (
 	"os"
 )
 
-func UpdateWeather(use string) *cobra.Command {
+func UpdateArticles(use string) *cobra.Command {
 	var templateFilePath string
 	var outputFilePath string
 	var username string
