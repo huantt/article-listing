@@ -13,11 +13,16 @@ Collect your latest articles from sources such as [dev.to](https://dev.to), and 
 ```shell
 {{`{{`}} template "article-list" .Articles {{`}}`}}
 ```
+- **Article table:**
+```shell
+{{`{{`}} template "article-table" .Articles {{`}}`}}
+```
 
 If you are familiar with Go templates, you have access to the `root` variable, which includes the following fields:
 
 - `Articles`: An array of Article. You can view the Article struct definition in [model/article.go](model/article.go).
 - `Time`: Updated Time
+- `Author`: Author of articles
 
 **Step 4**: Register Github Action
 - Create a file `.github/workflows/update-articles.yml` in your repository.

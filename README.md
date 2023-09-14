@@ -13,11 +13,16 @@ Collect your latest articles from sources such as [dev.to](https://dev.to), and 
 ```shell
 {{ template "article-list" .Articles }}
 ```
+- **Article table:**
+```shell
+{{ template "article-table" .Articles }}
+```
 
 If you are familiar with Go templates, you have access to the `root` variable, which includes the following fields:
 
 - `Articles`: An array of Article. You can view the Article struct definition in [model/article.go](model/article.go).
 - `Time`: Updated Time
+- `Author`: Author of articles
 
 **Step 4**: Register Github Action
 - Create a file `.github/workflows/update-articles.yml` in your repository.
@@ -57,6 +62,14 @@ jobs:
 
 <table>
         <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi">Update your dev.to articles into your Github profile</a>
+                <div>In this article, I&#39;ll share you how to update your latest articles on dev.to into your Github...</div>
+                <div><i>14/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9aLNv3pz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/urlpgle748e1db4sw81v.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/creating-dynamic-readmemd-file-388o">Creating Dynamic README.md File</a>
@@ -84,16 +97,8 @@ jobs:
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZviKv8F5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5m3kjdhd57zgk0xpcdr.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/load-private-module-in-golang-project-122l">Load Private Module in Golang Project</a>
-                <div>Table of Contents    I. How Does go get Work? II. How to Load Private Modules III. Build...</div>
+                <div>Load Private Module in Golang Project           Table of Contents    I. How Does go get Work? II. How...</div>
                 <div><i>12/08/2023</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/speed-up-your-query-in-postgres-48e3">Speed up your query in Postgres</a>
-                <div>Table of contents    Indexing Use EXPLAIN ANALYZE Use UNION Instead of OR to Use Index Use...</div>
-                <div><i>23/06/2023</i></div>
             </td>
         </tr>
 </table>
@@ -101,10 +106,10 @@ jobs:
 
 ### List
 
+- [Update your dev.to articles into your Github profile](https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi) - 14/09/2023
 - [Creating Dynamic README.md File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o) - 09/09/2023
 - [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g) - 30/08/2023
 - [Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n) - 30/08/2023
 - [Load Private Module in Golang Project](https://dev.to/jacktt/load-private-module-in-golang-project-122l) - 12/08/2023
-- [Speed up your query in Postgres](https://dev.to/jacktt/speed-up-your-query-in-postgres-48e3) - 23/06/2023
 
-*Updated at: 2023-09-14T01:20:31Z*
+*Updated at: 2023-09-14T12:44:55&#43;07:00*
