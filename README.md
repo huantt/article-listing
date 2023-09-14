@@ -78,7 +78,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--EyxkUB5z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbxjrjp6rqnuvkymwy5q.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g">Search Goole Like a Pro [Cheat sheet]</a>
                 <div>Before reading my article, let&#39;s try searching the following input:    inurl:/jacktt/ site:dev.to    ...</div>
@@ -86,7 +86,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dwEQQuvx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w3qkrh0jj4qkeumkm880.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/go-build-in-advance-4o8n">Advanced Go Build Techniques</a>
                 <div>Table of contents   Build options Which file will be included Build tags Build contraints           ...</div>
@@ -112,4 +112,4 @@ jobs:
 - [Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n) - 30/08/2023
 - [Load Private Module in Golang Project](https://dev.to/jacktt/load-private-module-in-golang-project-122l) - 12/08/2023
 
-*Updated at: 2023-09-14T08:43:11Z*
+*Updated at: 2023-09-14T12:40:42Z*
