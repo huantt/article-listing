@@ -67,9 +67,7 @@ jobs:
 
 <table>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi"><img src="data/images/default-thumbnail.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi">Update your dev.to articles into your Github profile</a>
                 <div>In this article, I&#39;ll share you how to update your latest articles on dev.to into your Github...</div>
@@ -77,9 +75,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/creating-dynamic-readmemd-file-388o"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9aLNv3pz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/urlpgle748e1db4sw81v.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9aLNv3pz--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/urlpgle748e1db4sw81v.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/creating-dynamic-readmemd-file-388o">Creating Dynamic README.md File</a>
                 <div>This is my Github Profile. The specific thing here is that the weather is updated every 6 hours...</div>
@@ -87,9 +83,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--EyxkUB5z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbxjrjp6rqnuvkymwy5q.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--EyxkUB5z--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbxjrjp6rqnuvkymwy5q.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g">Search Goole Like a Pro [Cheat sheet]</a>
                 <div>Before reading my article, let&#39;s try searching the following input:    inurl:/jacktt/ site:dev.to    ...</div>
@@ -97,9 +91,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/go-build-in-advance-4o8n"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dwEQQuvx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w3qkrh0jj4qkeumkm880.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dwEQQuvx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w3qkrh0jj4qkeumkm880.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/go-build-in-advance-4o8n">Advanced Go Build Techniques</a>
                 <div>Table of contents   Build options Which file will be included Build tags Build contraints           ...</div>
@@ -107,9 +99,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/load-private-module-in-golang-project-122l"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZviKv8F5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5m3kjdhd57zgk0xpcdr.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZviKv8F5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5m3kjdhd57zgk0xpcdr.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/load-private-module-in-golang-project-122l">Load Private Module in Golang Project</a>
                 <div>Load Private Module in Golang Project           Table of Contents    I. How Does go get Work? II. How...</div>
@@ -127,4 +117,4 @@ jobs:
 - [Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n) - 30/08/2023
 - [Load Private Module in Golang Project](https://dev.to/jacktt/load-private-module-in-golang-project-122l) - 12/08/2023
 
-*Updated at: 2023-09-15T12:48:46&#43;07:00*
+*Updated at: 2023-09-15T05:49:58Z*
