@@ -67,6 +67,14 @@ jobs:
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IYXpxeIK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgku9dux2s3sohohiy5n.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc">Is JWT Safe When Anyone Can Decode Plain Text Claims</a>
+                <div>If I get a JWT and can decode the payload, how is it secure? Why couldn&#39;t I just grab the token out...</div>
+                <div><i>15/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi">Update your dev.to articles into your Github profile</a>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>30/08/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ZviKv8F5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/b5m3kjdhd57zgk0xpcdr.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/load-private-module-in-golang-project-122l">Load Private Module in Golang Project</a>
-                <div>Load Private Module in Golang Project           Table of Contents    I. How Does go get Work? II. How...</div>
-                <div><i>12/08/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc) - 15/09/2023
 - [Update your dev.to articles into your Github profile](https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi) - 14/09/2023
 - [Creating Dynamic README.md File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o) - 09/09/2023
 - [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g) - 30/08/2023
 - [Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n) - 30/08/2023
-- [Load Private Module in Golang Project](https://dev.to/jacktt/load-private-module-in-golang-project-122l) - 12/08/2023
 
-*Updated at: 2023-09-15T05:49:58Z*
+*Updated at: 2023-09-15T06:27:45Z*
