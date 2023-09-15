@@ -112,4 +112,4 @@ jobs:
 - [Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n) - 30/08/2023
 - [Load Private Module in Golang Project](https://dev.to/jacktt/load-private-module-in-golang-project-122l) - 12/08/2023
 
-*Updated at: 2023-09-14T18:26:25Z*
+*Updated at: 2023-09-15T01:22:19Z*
