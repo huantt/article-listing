@@ -117,4 +117,4 @@ jobs:
 - [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g) - 30/08/2023
 - [Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n) - 30/08/2023
 
-*Updated at: 2023-09-19T06:28:17Z*
+*Updated at: 2023-09-19T12:41:46Z*
