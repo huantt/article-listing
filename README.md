@@ -67,6 +67,14 @@ jobs:
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5ZGPl4z3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4lksd6yc3hiks8dn7jw.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g">[Survey] Automatic Table of Contents in Dev.to Articles</a>
+                <div>If you&#39;re an avid reader on Dev.to, you might have come across articles that feature a table of...</div>
+                <div><i>20/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IYXpxeIK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgku9dux2s3sohohiy5n.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc">Is JWT Safe When Anyone Can Decode Plain Text Claims</a>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>30/08/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dwEQQuvx--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/w3qkrh0jj4qkeumkm880.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/go-build-in-advance-4o8n">Advanced Go Build Techniques</a>
-                <div>Table of contents   Build options Which file will be included Build tags Build contraints           ...</div>
-                <div><i>30/08/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [[Survey] Automatic Table of Contents in Dev.to Articles](https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g) - 20/09/2023
 - [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc) - 15/09/2023
 - [Update your dev.to articles into your Github profile](https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi) - 14/09/2023
 - [Creating Dynamic README.md File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o) - 09/09/2023
 - [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g) - 30/08/2023
-- [Advanced Go Build Techniques](https://dev.to/jacktt/go-build-in-advance-4o8n) - 30/08/2023
 
-*Updated at: 2023-09-20T01:21:38Z*
+*Updated at: 2023-09-20T06:28:19Z*
