@@ -67,7 +67,7 @@ jobs:
 
 <table>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--5ZGPl4z3--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/v4lksd6yc3hiks8dn7jw.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--d1Ji2l0_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbqqmm8z78o20v367tl2.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g">[Survey] Automatic Table of Contents in Dev.to Articles</a>
                 <div>If you&#39;re an avid reader on Dev.to, you might have come across articles that feature a table of...</div>
@@ -117,4 +117,4 @@ jobs:
 - [Creating Dynamic README.md File](https://dev.to/jacktt/creating-dynamic-readmemd-file-388o) - 09/09/2023
 - [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-555g) - 30/08/2023
 
-*Updated at: 2023-09-20T12:41:40Z*
+*Updated at: 2023-09-20T18:28:06Z*
