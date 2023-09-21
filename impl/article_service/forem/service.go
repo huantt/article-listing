@@ -2,6 +2,7 @@ package forem
 
 import (
 	"context"
+	"fmt"
 	"github.com/huantt/article-listing/model"
 	"github.com/huantt/article-listing/pkg/forem"
 )
@@ -36,6 +37,7 @@ func toModels(articles []forem.Article) []model.Article {
 
 func toModel(article forem.Article) model.Article {
 	return model.Article{
+		Id:          fmt.Sprintf("%d", article.Id),
 		Url:         article.Url,
 		Title:       article.Title,
 		Description: article.Description,

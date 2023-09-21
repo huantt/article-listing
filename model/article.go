@@ -3,6 +3,7 @@ package model
 import "time"
 
 type Article struct {
+	Id          string     `json:"id"`
 	Url         string     `json:"url"`
 	Title       string     `json:"title"`
 	Description string     `json:"description"`
