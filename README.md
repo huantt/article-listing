@@ -39,7 +39,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Generate README
-              uses: huantt/article-listing@v1.3.0
+              uses: huantt/article-listing@v1.1.0
               with:
                 username: YOUR_USERNAME_ON_DEV_TO                
                 template-file: 'README.md.template'
@@ -67,9 +67,7 @@ jobs:
 
 <table>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6TB374Kl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6obe2ztk6bby7n0spoup.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6TB374Kl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6obe2ztk6bby7n0spoup.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">Why I Like Writing Technical Blogs</a>
                 <div>Requires me to delve further into the topic   It forces me to learn more deeply about the...</div>
@@ -77,9 +75,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CqGkCAHn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vyy4cghi7ogisa3emiam.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CqGkCAHn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vyy4cghi7ogisa3emiam.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">Making Dynamic Website Thumbnail</a>
                 <div>Look at this article&#39;s thumbnail; it&#39;s generated dynamically when this post receives new reactions or...</div>
@@ -87,9 +83,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--d1Ji2l0_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbqqmm8z78o20v367tl2.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--d1Ji2l0_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbqqmm8z78o20v367tl2.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g">[Survey] Automatic Table of Contents in Dev.to Articles</a>
                 <div>If you&#39;re an avid reader on Dev.to, you might have come across articles that feature a table of...</div>
@@ -97,9 +91,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IYXpxeIK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgku9dux2s3sohohiy5n.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--IYXpxeIK--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/xgku9dux2s3sohohiy5n.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc">Is JWT Safe When Anyone Can Decode Plain Text Claims</a>
                 <div>If I get a JWT and can decode the payload, how is it secure? Why couldn&#39;t I just grab the token out...</div>
@@ -107,9 +99,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px">
-                <a href="https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XgzcRaAa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5sjz7u8xty7u6r0wh4wp.png" alt="thumbnail"></a>
-            </td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XgzcRaAa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5sjz7u8xty7u6r0wh4wp.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi">Update your dev.to articles into your Github profile</a>
                 <div>In this article, I&#39;ll share you how to update your latest articles on dev.to into your Github...</div>
@@ -127,4 +117,4 @@ jobs:
 - [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc) - 15/09/2023
 - [Update your dev.to articles into your Github profile](https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi) - 14/09/2023
 
-*Updated at: 2023-09-22T06:24:01&#43;07:00*
+*Updated at: 2023-09-21T23:26:15Z*
