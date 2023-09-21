@@ -39,7 +39,7 @@ jobs:
         steps:
             - uses: actions/checkout@v3
             - name: Generate README
-              uses: huantt/article-listing@v1.1.0
+              uses: huantt/article-listing@v1.3.0
               with:
                 username: YOUR_USERNAME_ON_DEV_TO                
                 template-file: 'README.md.template'
