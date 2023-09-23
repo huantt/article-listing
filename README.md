@@ -75,7 +75,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--CqGkCAHn--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vyy4cghi7ogisa3emiam.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z1iJvsWa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ocu5mnfjxsnp4fol02t2.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">Making Dynamic Website Thumbnail</a>
                 <div>Look at this article&#39;s thumbnail; it&#39;s generated dynamically when this post receives new reactions or...</div>
@@ -117,4 +117,4 @@ jobs:
 - [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc) - 15/09/2023
 - [Update your dev.to articles into your Github profile](https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi) - 14/09/2023
 
-*Updated at: 2023-09-23T01:19:28Z*
+*Updated at: 2023-09-23T06:26:03Z*
