@@ -67,6 +67,14 @@ jobs:
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bIBRODe7--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cefgecyteunf2ei0mria.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-289n">20X Faster Golang Docker Builds</a>
+                <div>According to the Go command documentation:  &#34;The go command caches build outputs for reuse in future...</div>
+                <div><i>25/09/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6TB374Kl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6obe2ztk6bby7n0spoup.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">Why I Like Writing Technical Blogs</a>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>15/09/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--XgzcRaAa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/5sjz7u8xty7u6r0wh4wp.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi">Update your dev.to articles into your Github profile</a>
-                <div>In this article, I&#39;ll share you how to update your latest articles on dev.to into your Github...</div>
-                <div><i>14/09/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [20X Faster Golang Docker Builds](https://dev.to/jacktt/20x-faster-golang-docker-builds-289n) - 25/09/2023
 - [Why I Like Writing Technical Blogs](https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm) - 20/09/2023
 - [Making Dynamic Website Thumbnail](https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k) - 21/09/2023
 - [[Survey] Automatic Table of Contents in Dev.to Articles](https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g) - 20/09/2023
 - [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-3anc) - 15/09/2023
-- [Update your dev.to articles into your Github profile](https://dev.to/jacktt/update-your-devto-articles-into-your-github-profile-4dpi) - 14/09/2023
 
-*Updated at: 2023-09-25T12:42:14Z*
+*Updated at: 2023-09-25T18:28:12Z*
