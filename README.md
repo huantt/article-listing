@@ -67,15 +67,15 @@ jobs:
 
 <table>
         <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--l7K58RVg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0zvq5w0swapgj83xs5dd.png" alt="thumbnail"></td>
             <td>
-                <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-5bj9">20X Faster Golang Docker Builds</a>
-                <div>Hello According to the Go command documentation:  &#34;The go command caches build outputs for reuse in...</div>
-                <div><i>02/10/2023</i></div>
+                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...</a>
+                <div>In the world of content creation, each platform offers unique advantages. Publishing articles on...</div>
+                <div><i>03/10/2023</i></div>
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oAEGp2JN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zjbfi8ti7p4jfg7zuo9f.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--MYhfJtI0--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/kj1g9zo5j4zpjfwmmy01.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/20x-faster-golang-docker-builds-289n">20X Faster Golang Docker Builds</a>
                 <div>According to the Go command documentation:  &#34;The go command caches build outputs for reuse in future...</div>
@@ -83,7 +83,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6TB374Kl--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6obe2ztk6bby7n0spoup.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9LZDzMJ5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nyr1vfd7w2jwn96uowfj.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">Why I Like Writing Technical Blogs</a>
                 <div>Requires me to delve further into the topic   It forces me to learn more deeply about the...</div>
@@ -91,7 +91,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--z1iJvsWa--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ocu5mnfjxsnp4fol02t2.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UWs3rGfN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/54buhtjhbrjqmjwvp6do.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">Making Dynamic Website Thumbnail</a>
                 <div>Look at this article&#39;s thumbnail; it&#39;s generated dynamically when this post receives new reactions or...</div>
@@ -111,10 +111,10 @@ jobs:
 
 ### List
 
-- [20X Faster Golang Docker Builds](https://dev.to/jacktt/20x-faster-golang-docker-builds-5bj9) - 02/10/2023
+- [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib) - 03/10/2023
 - [20X Faster Golang Docker Builds](https://dev.to/jacktt/20x-faster-golang-docker-builds-289n) - 25/09/2023
 - [Why I Like Writing Technical Blogs](https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm) - 20/09/2023
 - [Making Dynamic Website Thumbnail](https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k) - 21/09/2023
 - [[Survey] Automatic Table of Contents in Dev.to Articles](https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g) - 20/09/2023
 
-*Updated at: 2023-10-03T12:42:33Z*
+*Updated at: 2023-10-03T18:28:43Z*
