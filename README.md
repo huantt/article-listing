@@ -67,6 +67,14 @@ jobs:
 
 <table>
         <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">Showing more Article info on Daily.dev</a>
+                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
+                <div><i>05/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--l7K58RVg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0zvq5w0swapgj83xs5dd.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...</a>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>21/09/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--d1Ji2l0_--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/zbqqmm8z78o20v367tl2.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g">[Survey] Automatic Table of Contents in Dev.to Articles</a>
-                <div>If you&#39;re an avid reader on Dev.to, you might have come across articles that feature a table of...</div>
-                <div><i>20/09/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g) - 05/10/2023
 - [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib) - 03/10/2023
 - [20X Faster Golang Docker Builds](https://dev.to/jacktt/20x-faster-golang-docker-builds-289n) - 25/09/2023
 - [Why I Like Writing Technical Blogs](https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm) - 20/09/2023
 - [Making Dynamic Website Thumbnail](https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k) - 21/09/2023
-- [[Survey] Automatic Table of Contents in Dev.to Articles](https://dev.to/jacktt/survey-automatic-table-of-contents-in-devto-articles-4m1g) - 20/09/2023
 
-*Updated at: 2023-10-05T06:28:25Z*
+*Updated at: 2023-10-05T12:44:01Z*
