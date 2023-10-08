@@ -117,4 +117,4 @@ jobs:
 - [Why I Like Writing Technical Blogs](https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm) - 20/09/2023
 - [Making Dynamic Website Thumbnail](https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k) - 21/09/2023
 
-*Updated at: 2023-10-08T12:37:08Z*
+*Updated at: 2023-10-08T18:26:10Z*
