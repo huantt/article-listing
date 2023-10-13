@@ -67,6 +67,14 @@ jobs:
 
 <table>
         <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1LE-4oq8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vid05nk4quwgjmrh5eqq.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/writing-resume-as-code-why-not-iab">Writing Resume as Code - Why not?</a>
+                <div>Why I Developed Resume as Code   I&#39;ve explored various CV builder platforms over the...</div>
+                <div><i>12/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g">Showing more Article info on Daily.dev</a>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>20/09/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--UWs3rGfN--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/54buhtjhbrjqmjwvp6do.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k">Making Dynamic Website Thumbnail</a>
-                <div>Look at this article&#39;s thumbnail; it&#39;s generated dynamically when this post receives new reactions or...</div>
-                <div><i>21/09/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Writing Resume as Code - Why not?](https://dev.to/jacktt/writing-resume-as-code-why-not-iab) - 12/10/2023
 - [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g) - 05/10/2023
 - [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib) - 03/10/2023
 - [20X Faster Golang Docker Builds](https://dev.to/jacktt/20x-faster-golang-docker-builds-289n) - 25/09/2023
 - [Why I Like Writing Technical Blogs](https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm) - 20/09/2023
-- [Making Dynamic Website Thumbnail](https://dev.to/jacktt/makding-dynamic-website-thumbnail-412k) - 21/09/2023
 
-*Updated at: 2023-10-13T06:29:37Z*
+*Updated at: 2023-10-13T12:41:47Z*
