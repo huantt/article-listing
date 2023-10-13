@@ -67,7 +67,7 @@ jobs:
 
 <table>
         <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--1LE-4oq8--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/vid05nk4quwgjmrh5eqq.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4VPFPpha--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9qo025bd43wsi3w0odc7.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/writing-resume-as-code-why-not-iab">Writing Resume as Code - Why not?</a>
                 <div>Why I Developed Resume as Code   I&#39;ve explored various CV builder platforms over the...</div>
@@ -117,4 +117,4 @@ jobs:
 - [20X Faster Golang Docker Builds](https://dev.to/jacktt/20x-faster-golang-docker-builds-289n) - 25/09/2023
 - [Why I Like Writing Technical Blogs](https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm) - 20/09/2023
 
-*Updated at: 2023-10-13T12:41:47Z*
+*Updated at: 2023-10-13T18:28:37Z*
