@@ -117,4 +117,4 @@ jobs:
 - [20X Faster Golang Docker Builds](https://dev.to/jacktt/20x-faster-golang-docker-builds-289n) - 25/09/2023
 - [Why I Like Writing Technical Blogs](https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm) - 20/09/2023
 
-*Updated at: 2023-10-13T18:28:37Z*
+*Updated at: 2023-10-14T01:20:27Z*
