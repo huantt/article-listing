@@ -67,6 +67,14 @@ jobs:
 
 <table>
         <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/migrate-redis-to-aws-elasticache-8bl">Migrate Redis to AWS ElastiCache</a>
+                <div>How to Migrate Redis from One Server to Another   Starting from Redis version 5.0.0, Redis...</div>
+                <div><i>19/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4VPFPpha--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9qo025bd43wsi3w0odc7.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/writing-resume-as-code-why-not-iab">Writing Resume as Code - Why not?</a>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>25/09/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--9LZDzMJ5--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/nyr1vfd7w2jwn96uowfj.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm">Why I Like Writing Technical Blogs</a>
-                <div>Requires me to delve further into the topic   It forces me to learn more deeply about the...</div>
-                <div><i>20/09/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Migrate Redis to AWS ElastiCache](https://dev.to/jacktt/migrate-redis-to-aws-elasticache-8bl) - 19/10/2023
 - [Writing Resume as Code - Why not?](https://dev.to/jacktt/writing-resume-as-code-why-not-iab) - 12/10/2023
 - [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g) - 05/10/2023
 - [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib) - 03/10/2023
 - [20X Faster Golang Docker Builds](https://dev.to/jacktt/20x-faster-golang-docker-builds-289n) - 25/09/2023
-- [Why I Like Writing Technical Blogs](https://dev.to/jacktt/why-i-like-writing-technical-blogs-11nm) - 20/09/2023
 
-*Updated at: 2023-10-20T01:22:33Z*
+*Updated at: 2023-10-20T06:28:45Z*
