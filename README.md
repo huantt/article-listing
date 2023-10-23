@@ -117,4 +117,4 @@ jobs:
 - [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib) - 03/10/2023
 - [20X Faster Golang Docker Builds](https://dev.to/jacktt/20x-faster-golang-docker-builds-289n) - 25/09/2023
 
-*Updated at: 2023-10-23T12:42:06Z*
+*Updated at: 2023-10-23T18:27:46Z*
