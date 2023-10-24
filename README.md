@@ -117,4 +117,4 @@ jobs:
 - [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g) - 05/10/2023
 - [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib) - 03/10/2023
 
-*Updated at: 2023-10-24T12:40:46Z*
+*Updated at: 2023-10-24T18:28:40Z*
