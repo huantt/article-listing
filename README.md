@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/explaining-ab-testing-algorithm-50mf">Explaining A/B testing algorithm</a>
+                <div>We are developing a crypto news aggregator Bitesapp.co. A few days ago, we implemented A/B testing...</div>
+                <div><i>25/10/2023</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p">Understanding the Weighted Random Algorithm</a>
                 <div>Imagine you have a collection of items, and each item has a different &#34;weight,&#34; or probability of...</div>
                 <div><i>24/10/2023</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>05/10/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--l7K58RVg--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/0zvq5w0swapgj83xs5dd.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib">[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...</a>
-                <div>In the world of content creation, each platform offers unique advantages. Publishing articles on...</div>
-                <div><i>03/10/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Explaining A/B testing algorithm](https://dev.to/jacktt/explaining-ab-testing-algorithm-50mf) - 25/10/2023
 - [Understanding the Weighted Random Algorithm](https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p) - 24/10/2023
 - [Migrate Redis to AWS ElastiCache](https://dev.to/jacktt/migrate-redis-to-aws-elasticache-8bl) - 19/10/2023
 - [Writing Resume as Code - Why not?](https://dev.to/jacktt/writing-resume-as-code-why-not-iab) - 12/10/2023
 - [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-277g) - 05/10/2023
-- [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-3hib) - 03/10/2023
 
-*Updated at: 2023-10-25T18:26:30Z*
+*Updated at: 2023-10-26T01:20:51Z*
