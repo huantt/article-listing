@@ -117,4 +117,4 @@ jobs:
 - [Migrate Redis to AWS ElastiCache](https://dev.to/jacktt/migrate-redis-to-aws-elasticache-8bl) - 19/10/2023
 - [Writing Resume as Code - Why not?](https://dev.to/jacktt/writing-resume-as-code-why-not-iab) - 12/10/2023
 
-*Updated at: 2023-11-08T18:27:39Z*
+*Updated at: 2023-11-09T01:29:31Z*
