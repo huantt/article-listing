@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-129i">Kubernetes Scheduler</a>
+                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
+                <div><i>03/01/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik">Multiple git configs (profiles) on one computer</a>
                 <div>How to let git know which profile should be used in specific folders?   Imagine that you’re...</div>
                 <div><i>26/10/2023</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>19/10/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--4VPFPpha--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/9qo025bd43wsi3w0odc7.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/writing-resume-as-code-why-not-iab">Writing Resume as Code - Why not?</a>
-                <div>Why I Developed Resume as Code   I&#39;ve explored various CV builder platforms over the...</div>
-                <div><i>12/10/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-129i) - 03/01/2024
 - [Multiple git configs (profiles) on one computer](https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik) - 26/10/2023
 - [Explaining A/B testing algorithm](https://dev.to/jacktt/explaining-ab-testing-algorithm-50mf) - 25/10/2023
 - [Understanding the Weighted Random Algorithm](https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p) - 24/10/2023
 - [Migrate Redis to AWS ElastiCache](https://dev.to/jacktt/migrate-redis-to-aws-elasticache-8bl) - 19/10/2023
-- [Writing Resume as Code - Why not?](https://dev.to/jacktt/writing-resume-as-code-why-not-iab) - 12/10/2023
 
-*Updated at: 2024-01-05T12:39:51Z*
+*Updated at: 2024-01-05T18:27:23Z*
