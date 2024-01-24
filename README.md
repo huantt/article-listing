@@ -117,4 +117,4 @@ jobs:
 - [Explaining A/B testing algorithm](https://dev.to/jacktt/explaining-ab-testing-algorithm-50mf) - 25/10/2023
 - [Understanding the Weighted Random Algorithm](https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p) - 24/10/2023
 
-*Updated at: 2024-01-24T12:43:03Z*
+*Updated at: 2024-01-24T18:27:17Z*
