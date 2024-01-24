@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/saa-aws-storage-types-1noo">[SAA] AWS EBS, EFS and EC2 insntace storage</a>
+                <div>EBS (a.k.a. Elastic Block Store)    They are bound to a specific AZ (in specific region) You...</div>
+                <div><i>24/01/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/kubernetes-scheduler-129i">Kubernetes Scheduler</a>
                 <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
                 <div><i>03/01/2024</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>24/10/2023</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/migrate-redis-to-aws-elasticache-8bl">Migrate Redis to AWS ElastiCache</a>
-                <div>How to Migrate Redis from One Server to Another   Starting from Redis version 5.0.0, Redis...</div>
-                <div><i>19/10/2023</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [[SAA] AWS EBS, EFS and EC2 insntace storage](https://dev.to/jacktt/saa-aws-storage-types-1noo) - 24/01/2024
 - [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-129i) - 03/01/2024
 - [Multiple git configs (profiles) on one computer](https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik) - 26/10/2023
 - [Explaining A/B testing algorithm](https://dev.to/jacktt/explaining-ab-testing-algorithm-50mf) - 25/10/2023
 - [Understanding the Weighted Random Algorithm](https://dev.to/jacktt/understanding-the-weighted-random-algorithm-581p) - 24/10/2023
-- [Migrate Redis to AWS ElastiCache](https://dev.to/jacktt/migrate-redis-to-aws-elasticache-8bl) - 19/10/2023
 
-*Updated at: 2024-01-24T06:29:33Z*
+*Updated at: 2024-01-24T12:43:03Z*
