@@ -117,4 +117,4 @@ jobs:
 - [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-129i) - 03/01/2024
 - [Multiple git configs (profiles) on one computer](https://dev.to/jacktt/multiple-git-configs-profiles-on-one-computer-2ik) - 26/10/2023
 
-*Updated at: 2024-05-06T01:32:29Z*
+*Updated at: 2024-05-06T06:29:30Z*
