@@ -69,41 +69,41 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
-                <a href="https://dev.to/jacktt/solidity-concepts-1p85">Solidity concepts</a>
-                <div>Concept / Keyword Description     Visibility Specifies the accessibility of functions and state...</div>
-                <div><i>07/05/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/optimistic-lock-pessimistic-lock-4h36">Optimistic lock &amp; Pessimistic lock</a>
-                <div>Pessimistic lock    Lock READ UPDATE Unlock   Example:    START TRANSACTION;  -- Select the...</div>
+                <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-4f53">Search Goole Like a Pro [Cheat sheet]</a>
+                <div>Before reading my article, let&#39;s try searching the following input:    inurl:/jacktt/ site:dev.to    ...</div>
                 <div><i>08/05/2024</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
-                <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-40ai">Kafka dump: backup, restore, stream,...</a>
-                <div>Source code   Kafka dump           Kafka data backup   Kafka dump is a tool to back up and...</div>
-                <div><i>24/01/2024</i></div>
+                <a href="https://dev.to/jacktt/advanced-go-build-techniques-4fk1">Advanced Go Build Techniques</a>
+                <div>Table of contents   Build options Which file will be included Build tags Build contraints           ...</div>
+                <div><i>08/05/2024</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
-                <a href="https://dev.to/jacktt/kafka-dump-backup-restore-stream-22hf">Kafka dump: backup, restore, stream,...</a>
-                <div>Source code   Kafka dump           Kafka data backup   Kafka dump is a tool to back up and...</div>
-                <div><i>24/01/2024</i></div>
+                <a href="https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-536m">Search Goole Like a Pro [Cheat sheet]</a>
+                <div>Before reading my article, let&#39;s try searching the following input:    inurl:/jacktt/ site:dev.to    ...</div>
+                <div><i>08/05/2024</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
-                <a href="https://dev.to/jacktt/saa-aws-storage-types-1noo">[SAA] AWS EBS, EFS and EC2 insntace storage</a>
-                <div>EBS (a.k.a. Elastic Block Store)    They are bound to a specific AZ (in specific region) You...</div>
-                <div><i>24/01/2024</i></div>
+                <a href="https://dev.to/jacktt/advanced-go-build-techniques-29ef">Advanced Go Build Techniques</a>
+                <div>Table of contents   Build options Which file will be included Build tags Build contraints           ...</div>
+                <div><i>08/05/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/solidity-concepts-1p85">Solidity concepts</a>
+                <div>Concept / Keyword Description     Visibility Specifies the accessibility of functions and state...</div>
+                <div><i>07/05/2024</i></div>
             </td>
         </tr>
 </table>
@@ -111,10 +111,10 @@ jobs:
 
 ### List
 
+- [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-4f53) - 08/05/2024
+- [Advanced Go Build Techniques](https://dev.to/jacktt/advanced-go-build-techniques-4fk1) - 08/05/2024
+- [Search Goole Like a Pro [Cheat sheet]](https://dev.to/jacktt/search-goole-like-a-pro-cheat-sheet-536m) - 08/05/2024
+- [Advanced Go Build Techniques](https://dev.to/jacktt/advanced-go-build-techniques-29ef) - 08/05/2024
 - [Solidity concepts](https://dev.to/jacktt/solidity-concepts-1p85) - 07/05/2024
-- [Optimistic lock &amp; Pessimistic lock](https://dev.to/jacktt/optimistic-lock-pessimistic-lock-4h36) - 08/05/2024
-- [Kafka dump: backup, restore, stream,...](https://dev.to/jacktt/kafka-dump-backup-restore-stream-40ai) - 24/01/2024
-- [Kafka dump: backup, restore, stream,...](https://dev.to/jacktt/kafka-dump-backup-restore-stream-22hf) - 24/01/2024
-- [[SAA] AWS EBS, EFS and EC2 insntace storage](https://dev.to/jacktt/saa-aws-storage-types-1noo) - 24/01/2024
 
-*Updated at: 2024-05-09T12:39:44Z*
+*Updated at: 2024-05-09T18:28:04Z*
