@@ -117,4 +117,4 @@ jobs:
 - [Advanced Go Build Techniques](https://dev.to/jacktt/advanced-go-build-techniques-29ef) - 08/05/2024
 - [Solidity concepts](https://dev.to/jacktt/solidity-concepts-1p85) - 07/05/2024
 
-*Updated at: 2024-05-28T18:31:19Z*
+*Updated at: 2024-05-29T01:37:51Z*
