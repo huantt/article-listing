@@ -117,4 +117,4 @@ jobs:
 - [Optimistic lock &amp; Pessimistic lock](https://dev.to/jacktt/optimistic-lock-pessimistic-lock-4h36) - 08/05/2024
 - [Kafka dump: backup, restore, stream,...](https://dev.to/jacktt/kafka-dump-backup-restore-stream-40ai) - 24/01/2024
 
-*Updated at: 2024-06-05T12:43:19Z*
+*Updated at: 2024-06-05T18:29:45Z*
