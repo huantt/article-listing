@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o">Is JWT Safe When Anyone Can Decode Plain Text Claims</a>
+                <div>If I get a JWT and can decode the payload, how is it secure? Why couldn&#39;t I just grab the token out...</div>
+                <div><i>06/06/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/understanding-the-select-for-update-sql-statement-900">Understanding the &#34;SELECT FOR UPDATE&#34; SQL Statement</a>
                 <div>What is &#34;SELECT FOR UPDATE&#34;?   SELECT FOR UPDATE is a clause in SQL that is appended to a...</div>
                 <div><i>06/06/2024</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>08/05/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/solidity-concepts-1p85">Solidity concepts</a>
-                <div>Concept / Keyword Description     Visibility Specifies the accessibility of functions and state...</div>
-                <div><i>07/05/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o) - 06/06/2024
 - [Understanding the &#34;SELECT FOR UPDATE&#34; SQL Statement](https://dev.to/jacktt/understanding-the-select-for-update-sql-statement-900) - 06/06/2024
 - [Managing Concurrent Purchases of Limited Items in a Database](https://dev.to/jacktt/managing-concurrent-purchases-of-limited-items-in-a-database-2gm0) - 06/06/2024
 - [Why does not postgres use my index?](https://dev.to/jacktt/why-does-not-postgres-use-my-index-5apf) - 05/06/2024
 - [Advanced Go Build Techniques](https://dev.to/jacktt/advanced-go-build-techniques-4fk1) - 08/05/2024
-- [Solidity concepts](https://dev.to/jacktt/solidity-concepts-1p85) - 07/05/2024
 
-*Updated at: 2024-06-07T12:44:03Z*
+*Updated at: 2024-06-07T18:32:04Z*
