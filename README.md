@@ -117,4 +117,4 @@ jobs:
 - [Why does not postgres use my index?](https://dev.to/jacktt/why-does-not-postgres-use-my-index-5apf) - 05/06/2024
 - [Advanced Go Build Techniques](https://dev.to/jacktt/advanced-go-build-techniques-4fk1) - 08/05/2024
 
-*Updated at: 2024-06-09T06:30:17Z*
+*Updated at: 2024-06-09T12:40:44Z*
