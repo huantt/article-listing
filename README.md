@@ -117,4 +117,4 @@ jobs:
 - [Managing Concurrent Purchases of Limited Items in a Database](https://dev.to/jacktt/managing-concurrent-purchases-of-limited-items-in-a-database-2gm0) - 06/06/2024
 - [Why does not postgres use my index?](https://dev.to/jacktt/why-does-not-postgres-use-my-index-5apf) - 05/06/2024
 
-*Updated at: 2024-06-23T06:30:10Z*
+*Updated at: 2024-06-23T12:40:36Z*
