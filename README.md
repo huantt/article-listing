@@ -61,11 +61,19 @@ jobs:
 
 **Step 5**: Commit your change, then Github actions will run as your specified cron to update Articles into your README.md file
 
-## Below is my recent articles Jack collected from dev.to
+## Below is my recent articles JackTT collected from dev.to
 ### Table
 
 
 <table>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/graphql-fundamental-236k">Graphql Fundamental</a>
+                <div>GraphQL provides a complete and understandable description of the API, including both &#34;API endpoints&#34;...</div>
+                <div><i>03/07/2024</i></div>
+            </td>
+        </tr>
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>06/06/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/why-does-not-postgres-use-my-index-5apf">Why does not postgres use my index?</a>
-                <div>This is a quick note           1. Query Conditions Not Matching the Index    The index is not on the...</div>
-                <div><i>05/06/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Graphql Fundamental](https://dev.to/jacktt/graphql-fundamental-236k) - 03/07/2024
 - [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-2701) - 11/06/2024
 - [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o) - 06/06/2024
 - [Understanding the &#34;SELECT FOR UPDATE&#34; SQL Statement](https://dev.to/jacktt/understanding-the-select-for-update-sql-statement-900) - 06/06/2024
 - [Managing Concurrent Purchases of Limited Items in a Database](https://dev.to/jacktt/managing-concurrent-purchases-of-limited-items-in-a-database-2gm0) - 06/06/2024
-- [Why does not postgres use my index?](https://dev.to/jacktt/why-does-not-postgres-use-my-index-5apf) - 05/06/2024
 
-*Updated at: 2024-07-03T01:37:26Z*
+*Updated at: 2024-07-03T06:33:21Z*
