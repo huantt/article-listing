@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/graphql-types-26og">GraphQL Types</a>
+                <div>Field declaration   By default, it&#39;s valid for any field in your schema to return null...</div>
+                <div><i>03/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/graphql-fundamental-236k">Graphql Fundamental</a>
                 <div>GraphQL provides a complete and understandable description of the API, including both &#34;API endpoints&#34;...</div>
                 <div><i>03/07/2024</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>06/06/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/managing-concurrent-purchases-of-limited-items-in-a-database-2gm0">Managing Concurrent Purchases of Limited Items in a Database</a>
-                <div>Imagine that we&#39;re developing an e-commerce website. In this case, we have a limited number of items...</div>
-                <div><i>06/06/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [GraphQL Types](https://dev.to/jacktt/graphql-types-26og) - 03/07/2024
 - [Graphql Fundamental](https://dev.to/jacktt/graphql-fundamental-236k) - 03/07/2024
 - [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-2701) - 11/06/2024
 - [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o) - 06/06/2024
 - [Understanding the &#34;SELECT FOR UPDATE&#34; SQL Statement](https://dev.to/jacktt/understanding-the-select-for-update-sql-statement-900) - 06/06/2024
-- [Managing Concurrent Purchases of Limited Items in a Database](https://dev.to/jacktt/managing-concurrent-purchases-of-limited-items-in-a-database-2gm0) - 06/06/2024
 
-*Updated at: 2024-07-04T06:32:22Z*
+*Updated at: 2024-07-04T12:43:56Z*
