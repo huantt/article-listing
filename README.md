@@ -117,4 +117,4 @@ jobs:
 - [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o) - 06/06/2024
 - [Understanding the &#34;SELECT FOR UPDATE&#34; SQL Statement](https://dev.to/jacktt/understanding-the-select-for-update-sql-statement-900) - 06/06/2024
 
-*Updated at: 2024-07-04T18:30:30Z*
+*Updated at: 2024-07-05T01:37:51Z*
