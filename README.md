@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2">Why are NoSQL Databases beeter at Horizontal Scaling Compared to...</a>
+                <div>The ability of NoSQL databases to horizontally scale more effectively than SQL databases is rooted in...</div>
+                <div><i>01/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/graphql-types-26og">GraphQL Types</a>
                 <div>Field declaration   By default, it&#39;s valid for any field in your schema to return null...</div>
                 <div><i>03/07/2024</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>06/06/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/understanding-the-select-for-update-sql-statement-900">Understanding the &#34;SELECT FOR UPDATE&#34; SQL Statement</a>
-                <div>What is &#34;SELECT FOR UPDATE&#34;?   SELECT FOR UPDATE is a clause in SQL that is appended to a...</div>
-                <div><i>06/06/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Why are NoSQL Databases beeter at Horizontal Scaling Compared to...](https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2) - 01/07/2024
 - [GraphQL Types](https://dev.to/jacktt/graphql-types-26og) - 03/07/2024
 - [Graphql Fundamental](https://dev.to/jacktt/graphql-fundamental-236k) - 03/07/2024
 - [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-2701) - 11/06/2024
 - [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o) - 06/06/2024
-- [Understanding the &#34;SELECT FOR UPDATE&#34; SQL Statement](https://dev.to/jacktt/understanding-the-select-for-update-sql-statement-900) - 06/06/2024
 
-*Updated at: 2024-07-08T06:32:51Z*
+*Updated at: 2024-07-08T12:43:28Z*
