@@ -69,6 +69,30 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b">Showing more Article info on Daily.dev</a>
+                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
+                <div><i>09/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351">Showing more Article info on Daily.dev</a>
+                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
+                <div><i>08/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-4a7c">[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...</a>
+                <div>In the world of content creation, each platform offers unique advantages. Publishing articles on...</div>
+                <div><i>08/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2">Why are NoSQL Databases beeter at Horizontal Scaling Compared to...</a>
                 <div>The ability of NoSQL databases to horizontally scale more effectively than SQL databases is rooted in...</div>
                 <div><i>01/07/2024</i></div>
@@ -82,39 +106,15 @@ jobs:
                 <div><i>03/07/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/graphql-fundamental-236k">Graphql Fundamental</a>
-                <div>GraphQL provides a complete and understandable description of the API, including both &#34;API endpoints&#34;...</div>
-                <div><i>03/07/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-2701">Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases</a>
-                <div>Star Schema            Structure:     Central Fact Table: Contains quantitative data for...</div>
-                <div><i>11/06/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o">Is JWT Safe When Anyone Can Decode Plain Text Claims</a>
-                <div>If I get a JWT and can decode the payload, how is it secure? Why couldn&#39;t I just grab the token out...</div>
-                <div><i>06/06/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b) - 09/07/2024
+- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351) - 08/07/2024
+- [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-4a7c) - 08/07/2024
 - [Why are NoSQL Databases beeter at Horizontal Scaling Compared to...](https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2) - 01/07/2024
 - [GraphQL Types](https://dev.to/jacktt/graphql-types-26og) - 03/07/2024
-- [Graphql Fundamental](https://dev.to/jacktt/graphql-fundamental-236k) - 03/07/2024
-- [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-2701) - 11/06/2024
-- [Is JWT Safe When Anyone Can Decode Plain Text Claims](https://dev.to/jacktt/is-jwt-safe-when-anyone-can-decode-plain-text-claims-2j7o) - 06/06/2024
 
-*Updated at: 2024-07-09T06:38:23Z*
+*Updated at: 2024-07-09T12:45:40Z*
