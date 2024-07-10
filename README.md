@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81">Comparing Limit-Offset and Cursor Pagination</a>
+                <div>Comparing Limit-Offset and Cursor Pagination   There are two popular methods for pagination...</div>
+                <div><i>10/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b">Showing more Article info on Daily.dev</a>
                 <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
                 <div><i>09/07/2024</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>01/07/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/graphql-types-26og">GraphQL Types</a>
-                <div>Field declaration   By default, it&#39;s valid for any field in your schema to return null...</div>
-                <div><i>03/07/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Comparing Limit-Offset and Cursor Pagination](https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81) - 10/07/2024
 - [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b) - 09/07/2024
 - [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351) - 08/07/2024
 - [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-4a7c) - 08/07/2024
 - [Why are NoSQL Databases beeter at Horizontal Scaling Compared to...](https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2) - 01/07/2024
-- [GraphQL Types](https://dev.to/jacktt/graphql-types-26og) - 03/07/2024
 
-*Updated at: 2024-07-10T12:45:09Z*
+*Updated at: 2024-07-10T18:32:41Z*
