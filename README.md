@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/go-mock-30a4">Go mock</a>
+                <div>What is Go mock   Go mock is a mocking framework that allows developers to create mock...</div>
+                <div><i>30/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81">Comparing Limit-Offset and Cursor Pagination</a>
                 <div>Comparing Limit-Offset and Cursor Pagination   There are two popular methods for pagination...</div>
                 <div><i>10/07/2024</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>08/07/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2">Why are NoSQL Databases beeter at Horizontal Scaling Compared to...</a>
-                <div>The ability of NoSQL databases to horizontally scale more effectively than SQL databases is rooted in...</div>
-                <div><i>01/07/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Go mock](https://dev.to/jacktt/go-mock-30a4) - 30/07/2024
 - [Comparing Limit-Offset and Cursor Pagination](https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81) - 10/07/2024
 - [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b) - 09/07/2024
 - [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351) - 08/07/2024
 - [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-4a7c) - 08/07/2024
-- [Why are NoSQL Databases beeter at Horizontal Scaling Compared to...](https://dev.to/jacktt/why-are-nosql-databases-beeter-at-horizontal-scaling-compared-to-sql-databases-1hk2) - 01/07/2024
 
-*Updated at: 2024-07-30T12:45:19Z*
+*Updated at: 2024-07-30T18:31:21Z*
