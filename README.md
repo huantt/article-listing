@@ -69,6 +69,22 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0">Exploring some Powerful Features of Golang</a>
+                <div>Table of content    Goroutines Channel Buffered Channel Defer Select Plugin Binary...</div>
+                <div><i>31/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/explaining-ab-testing-algorithm-3k6b">Explaining A/B testing algorithm</a>
+                <div>We are developing a crypto news aggregator Bitesapp.co. A few days ago, we implemented A/B testing...</div>
+                <div><i>30/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/go-mock-30a4">Go mock</a>
                 <div>What is Go mock   Go mock is a mocking framework that allows developers to create mock...</div>
                 <div><i>30/07/2024</i></div>
@@ -90,31 +106,15 @@ jobs:
                 <div><i>09/07/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351">Showing more Article info on Daily.dev</a>
-                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
-                <div><i>08/07/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-4a7c">[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...</a>
-                <div>In the world of content creation, each platform offers unique advantages. Publishing articles on...</div>
-                <div><i>08/07/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Exploring some Powerful Features of Golang](https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0) - 31/07/2024
+- [Explaining A/B testing algorithm](https://dev.to/jacktt/explaining-ab-testing-algorithm-3k6b) - 30/07/2024
 - [Go mock](https://dev.to/jacktt/go-mock-30a4) - 30/07/2024
 - [Comparing Limit-Offset and Cursor Pagination](https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81) - 10/07/2024
 - [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b) - 09/07/2024
-- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-5351) - 08/07/2024
-- [[Article as Code] Syncing Articles Between Dev.to and Multiple Blogging...](https://dev.to/jacktt/article-as-code-syncing-articles-between-devto-and-multiple-blogging-platforms-4a7c) - 08/07/2024
 
-*Updated at: 2024-07-31T01:18:53Z*
+*Updated at: 2024-07-31T06:27:28Z*
