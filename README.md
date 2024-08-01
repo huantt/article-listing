@@ -69,6 +69,30 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-3b68">Kubernetes Scheduler</a>
+                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
+                <div><i>31/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-1173">Kubernetes Scheduler</a>
+                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
+                <div><i>31/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-3opf">Kubernetes Scheduler</a>
+                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
+                <div><i>31/07/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0">Exploring some Powerful Features of Golang</a>
                 <div>Table of content    Goroutines Channel Buffered Channel Defer Select Plugin Binary...</div>
                 <div><i>31/07/2024</i></div>
@@ -82,39 +106,15 @@ jobs:
                 <div><i>30/07/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/go-mock-30a4">Go mock</a>
-                <div>What is Go mock   Go mock is a mocking framework that allows developers to create mock...</div>
-                <div><i>30/07/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81">Comparing Limit-Offset and Cursor Pagination</a>
-                <div>Comparing Limit-Offset and Cursor Pagination   There are two popular methods for pagination...</div>
-                <div><i>10/07/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b">Showing more Article info on Daily.dev</a>
-                <div>Daily.dev is a very good extension that helps us aggregate news from several sources.  When...</div>
-                <div><i>09/07/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3b68) - 31/07/2024
+- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-1173) - 31/07/2024
+- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3opf) - 31/07/2024
 - [Exploring some Powerful Features of Golang](https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0) - 31/07/2024
 - [Explaining A/B testing algorithm](https://dev.to/jacktt/explaining-ab-testing-algorithm-3k6b) - 30/07/2024
-- [Go mock](https://dev.to/jacktt/go-mock-30a4) - 30/07/2024
-- [Comparing Limit-Offset and Cursor Pagination](https://dev.to/jacktt/comparing-limit-offset-and-cursor-pagination-1n81) - 10/07/2024
-- [Showing more Article info on Daily.dev](https://dev.to/jacktt/showing-more-article-info-on-dailydev-239b) - 09/07/2024
 
-*Updated at: 2024-08-01T01:48:22Z*
+*Updated at: 2024-08-01T06:32:58Z*
