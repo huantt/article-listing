@@ -117,4 +117,4 @@ jobs:
 - [Exploring some Powerful Features of Golang](https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0) - 31/07/2024
 - [Explaining A/B testing algorithm](https://dev.to/jacktt/explaining-ab-testing-algorithm-3k6b) - 30/07/2024
 
-*Updated at: 2024-08-06T18:32:33Z*
+*Updated at: 2024-08-07T01:42:54Z*
