@@ -117,4 +117,4 @@ jobs:
 - [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3opf) - 31/07/2024
 - [Exploring some Powerful Features of Golang](https://dev.to/jacktt/exploring-some-powerful-features-of-golang-36h0) - 31/07/2024
 
-*Updated at: 2024-08-17T18:30:15Z*
+*Updated at: 2024-08-18T01:47:05Z*
