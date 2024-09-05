@@ -75,14 +75,6 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F7vnbivhqy7dwemno0kmh.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/postgres-multi-version-concurrency-control-24nl">[Database] Multi-Version Concurrency Control</a>
-                <div>What is Multi-Version Concurrency Control   Multi-Version Concurrency Control (MVCC) is a...</div>
-                <div><i>03/09/2024</i></div>
-            </td>
-        </tr>
-        <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37">Kubernetes probes: startupProbe, livenssProbe, and readinessProbe</a>
@@ -106,15 +98,23 @@ jobs:
                 <div><i>31/07/2024</i></div>
             </td>
         </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/kubernetes-scheduler-3opf">Kubernetes Scheduler</a>
+                <div>I. Concepts            Node labels   When create a node, we can mark some labels for it. On...</div>
+                <div><i>31/07/2024</i></div>
+            </td>
+        </tr>
 </table>
 
 
 ### List
 
 - [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8) - 15/08/2024
-- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/postgres-multi-version-concurrency-control-24nl) - 03/09/2024
 - [Kubernetes probes: startupProbe, livenssProbe, and readinessProbe](https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37) - 07/08/2024
 - [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3b68) - 31/07/2024
 - [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-1173) - 31/07/2024
+- [Kubernetes Scheduler](https://dev.to/jacktt/kubernetes-scheduler-3opf) - 31/07/2024
 
-*Updated at: 2024-09-05T12:48:26Z*
+*Updated at: 2024-09-05T18:32:34Z*
