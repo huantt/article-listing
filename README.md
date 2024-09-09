@@ -117,4 +117,4 @@ jobs:
 - [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-1fi8) - 05/09/2024
 - [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8) - 15/08/2024
 
-*Updated at: 2024-09-09T06:37:18Z*
+*Updated at: 2024-09-09T12:48:53Z*
