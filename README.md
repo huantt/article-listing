@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">[Golang] Understanding Unbuffered and Buffered Channels</a>
+                <div>Table of contents    Channel capacity Behavior Closed channel Receive-Only &amp;amp; Send-only...</div>
+                <div><i>14/09/2024</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9">Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases</a>
                 <div>Star Schema            Structure:     Central Fact Table: Contains quantitative data for...</div>
                 <div><i>12/09/2024</i></div>
@@ -83,27 +91,19 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3uxjgm8eik6pm9pps6o5.jpg" alt="thumbnail"></td>
             <td>
-                <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-47hk">[Database] Multi-Version Concurrency Control</a>
-                <div>What is Multi-Version Concurrency Control   Multi-Version Concurrency Control (MVCC) is a...</div>
-                <div><i>06/09/2024</i></div>
+                <a href="https://dev.to/jacktt/acid-in-postgres-6h8">ACID in Postgres</a>
+                <div>ACID is a set of properties that ensure reliable transactions in a database system. It stands for...</div>
+                <div><i>15/08/2024</i></div>
             </td>
         </tr>
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
-                <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-l9j">[Database] Multi-Version Concurrency Control</a>
-                <div>What is Multi-Version Concurrency Control   Multi-Version Concurrency Control (MVCC) is a...</div>
-                <div><i>06/09/2024</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/database-multi-version-concurrency-control-1fi8">[Database] Multi-Version Concurrency Control</a>
-                <div>What is Multi-Version Concurrency Control   Multi-Version Concurrency Control (MVCC) is a...</div>
-                <div><i>05/09/2024</i></div>
+                <a href="https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37">Kubernetes probes: startupProbe, livenssProbe, and readinessProbe</a>
+                <div>Liveness   Liveness probes determine when to restart a container.   If the liveness probe...</div>
+                <div><i>07/08/2024</i></div>
             </td>
         </tr>
 </table>
@@ -111,10 +111,10 @@ jobs:
 
 ### List
 
+- [[Golang] Understanding Unbuffered and Buffered Channels](https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh) - 14/09/2024
 - [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9) - 12/09/2024
 - [[Postgres] Isolation levels](https://dev.to/jacktt/postgres-isolation-levels-72h) - 12/09/2024
-- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-47hk) - 06/09/2024
-- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-l9j) - 06/09/2024
-- [[Database] Multi-Version Concurrency Control](https://dev.to/jacktt/database-multi-version-concurrency-control-1fi8) - 05/09/2024
+- [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8) - 15/08/2024
+- [Kubernetes probes: startupProbe, livenssProbe, and readinessProbe](https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37) - 07/08/2024
 
-*Updated at: 2024-09-14T06:33:50Z*
+*Updated at: 2024-09-14T12:45:37Z*
