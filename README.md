@@ -117,4 +117,4 @@ jobs:
 - [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8) - 15/08/2024
 - [Kubernetes probes: startupProbe, livenssProbe, and readinessProbe](https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37) - 07/08/2024
 
-*Updated at: 2024-09-20T12:48:41Z*
+*Updated at: 2024-09-20T18:33:58Z*
