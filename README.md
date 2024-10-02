@@ -91,7 +91,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://media.dev.to/cdn-cgi/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3uxjgm8eik6pm9pps6o5.jpg" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3uxjgm8eik6pm9pps6o5.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/acid-in-postgres-6h8">ACID in Postgres</a>
                 <div>ACID is a set of properties that ensure reliable transactions in a database system. It stands for...</div>
@@ -117,4 +117,4 @@ jobs:
 - [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8) - 15/08/2024
 - [Kubernetes probes: startupProbe, livenssProbe, and readinessProbe](https://dev.to/jacktt/kubernetes-probes-livenssprobe-readinessprobe-and-startupprobe-3j37) - 07/08/2024
 
-*Updated at: 2024-10-02T12:50:23Z*
+*Updated at: 2024-10-02T18:35:33Z*
