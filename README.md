@@ -99,7 +99,7 @@ jobs:
             </td>
         </tr>
         <tr>
-            <td width="300px"><img src="https://media.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3uxjgm8eik6pm9pps6o5.jpg" alt="thumbnail"></td>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3uxjgm8eik6pm9pps6o5.jpg" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/acid-in-postgres-6h8">ACID in Postgres</a>
                 <div>ACID is a set of properties that ensure reliable transactions in a database system. It stands for...</div>
@@ -117,4 +117,4 @@ jobs:
 - [[Postgres] Isolation levels](https://dev.to/jacktt/postgres-isolation-levels-72h) - 12/09/2024
 - [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8) - 15/08/2024
 
-*Updated at: 2024-10-23T06:36:19Z*
+*Updated at: 2024-10-23T12:50:30Z*
