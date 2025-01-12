@@ -117,4 +117,4 @@ jobs:
 - [[Postgres] Isolation levels](https://dev.to/jacktt/postgres-isolation-levels-72h) - 12/09/2024
 - [ACID in Postgres](https://dev.to/jacktt/acid-in-postgres-6h8) - 15/08/2024
 
-*Updated at: 2025-01-11T18:32:47Z*
+*Updated at: 2025-01-12T02:02:26Z*
