@@ -67,6 +67,14 @@ jobs:
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4mwymfyiy1d2jgrweca.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/a-better-pkggodev-hip">A better pkg.go.dev</a>
+                <div>About pkgo.dev   I have never been able to read a package&#39;s documentation on pkg.go.dev...</div>
+                <div><i>16/02/2025</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F3wrh7ita355fq7dzzto1.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/pod-topology-spread-constraints-2pd7">Pod Topology Spread Constraints</a>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>12/09/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/postgres-isolation-levels-72h">[Postgres] Isolation levels</a>
-                <div>In PostgreSQL, isolation levels determine how transaction integrity is maintained when multiple...</div>
-                <div><i>12/09/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [A better pkg.go.dev](https://dev.to/jacktt/a-better-pkggodev-hip) - 16/02/2025
 - [Pod Topology Spread Constraints](https://dev.to/jacktt/pod-topology-spread-constraints-2pd7) - 12/01/2025
 - [Avoid Misunderstanding ON DELETE NO ACTION](https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj) - 06/10/2024
 - [[Golang] Understanding Unbuffered and Buffered Channels](https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh) - 14/09/2024
 - [Snowflake Schema vs. Star Schema: Pros, Cons, and Use Cases](https://dev.to/jacktt/snowflake-schema-vs-star-schema-pros-cons-and-use-cases-34p9) - 12/09/2024
-- [[Postgres] Isolation levels](https://dev.to/jacktt/postgres-isolation-levels-72h) - 12/09/2024
 
-*Updated at: 2025-02-16T12:47:55Z*
+*Updated at: 2025-02-16T18:32:09Z*
