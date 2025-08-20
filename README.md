@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o">AWS Lambda with Go - How to Build, Deploy, and...</a>
+                <div>Build, Deploy, and Invoke AWS Lambda Functions in Golang            1. Initialize Lambda...</div>
+                <div><i>20/08/2025</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/tracing-error-strack-in-golang-234o">Tracing error strack in Golang</a>
                 <div>Problem: No Stack Trace in Native Errors   Consider this Go snippet:    func function3()...</div>
                 <div><i>23/05/2025</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>06/10/2024</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh">[Golang] Understanding Unbuffered and Buffered Channels</a>
-                <div>Table of contents    Channel capacity Behavior Closed channel Receive-Only &amp;amp; Send-only...</div>
-                <div><i>14/09/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [AWS Lambda with Go - How to Build, Deploy, and...](https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o) - 20/08/2025
 - [Tracing error strack in Golang](https://dev.to/jacktt/tracing-error-strack-in-golang-234o) - 23/05/2025
 - [A better pkg.go.dev](https://dev.to/jacktt/a-better-pkggodev-hip) - 16/02/2025
 - [Pod Topology Spread Constraints](https://dev.to/jacktt/pod-topology-spread-constraints-2pd7) - 12/01/2025
 - [Avoid Misunderstanding ON DELETE NO ACTION](https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj) - 06/10/2024
-- [[Golang] Understanding Unbuffered and Buffered Channels](https://dev.to/jacktt/golang-understanding-unbuffered-and-buffered-channels-35bh) - 14/09/2024
 
-*Updated at: 2025-08-20T12:59:21Z*
+*Updated at: 2025-08-20T18:42:53Z*
