@@ -67,6 +67,14 @@ jobs:
 
 <table>
         <tr>
+            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7wglhgavqdxj92rzgpj.jpeg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip">Scaling Read Tracking with Redis Bitmaps</a>
+                <div>A friend recently came to me with a problem. They had designed a feature to track whether each user...</div>
+                <div><i>16/09/2025</i></div>
+            </td>
+        </tr>
+        <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
                 <a href="https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o">AWS Lambda with Go - How to Build, Deploy, and...</a>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>12/01/2025</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj">Avoid Misunderstanding ON DELETE NO ACTION</a>
-                <div>Relational databases often provide several options for handling actions when a referenced row in a...</div>
-                <div><i>06/10/2024</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [Scaling Read Tracking with Redis Bitmaps](https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip) - 16/09/2025
 - [AWS Lambda with Go - How to Build, Deploy, and...](https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o) - 20/08/2025
 - [Tracing error strack in Golang](https://dev.to/jacktt/tracing-error-strack-in-golang-234o) - 23/05/2025
 - [A better pkg.go.dev](https://dev.to/jacktt/a-better-pkggodev-hip) - 16/02/2025
 - [Pod Topology Spread Constraints](https://dev.to/jacktt/pod-topology-spread-constraints-2pd7) - 12/01/2025
-- [Avoid Misunderstanding ON DELETE NO ACTION](https://dev.to/jacktt/avoid-misunderstanding-on-delete-no-action-gcj) - 06/10/2024
 
-*Updated at: 2025-09-17T18:38:47Z*
+*Updated at: 2025-09-18T01:57:46Z*
