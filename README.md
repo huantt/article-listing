@@ -117,4 +117,4 @@ jobs:
 - [A better pkg.go.dev](https://dev.to/jacktt/a-better-pkggodev-hip) - 16/02/2025
 - [Pod Topology Spread Constraints](https://dev.to/jacktt/pod-topology-spread-constraints-2pd7) - 12/01/2025
 
-*Updated at: 2025-11-20T06:43:54Z*
+*Updated at: 2025-11-20T12:59:09Z*
