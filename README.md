@@ -117,4 +117,4 @@ jobs:
 - [Tracing error strack in Golang](https://dev.to/jacktt/tracing-error-strack-in-golang-234o) - 23/05/2025
 - [A better pkg.go.dev](https://dev.to/jacktt/a-better-pkggodev-hip) - 16/02/2025
 
-*Updated at: 2026-03-05T07:08:50Z*
+*Updated at: 2026-03-05T13:35:20Z*
