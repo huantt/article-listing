@@ -69,41 +69,41 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/bmad-cheat-sheet-5ab2">BMAD cheat sheet</a>
+                <div>Module 1: BMM (Business Model Management)   The main product development module, designed...</div>
+                <div><i>11/03/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/bmad-quick-flow-15en">BMAD Quick Flow</a>
+                <div>BMAD Quick Flow   Quick Flow is the lean path inside the BMAD Method. It skips the full...</div>
+                <div><i>11/03/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/bmad-standard-workflow-2kma">BMAD Standard Workflow</a>
+                <div>BMAD Standard Workflow Guide            Overview   BMAD (Business Methods and Development)...</div>
+                <div><i>11/03/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o">Understanding the Agents in the BMAD</a>
+                <div>BMAD Agents   BMAD uses a team of specialized agents, each representing a distinct role in...</div>
+                <div><i>11/03/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/co-be-ban-diem-phien-ban-2026-618">Cô bé bán diêm phiên bản 2026</a>
                 <div>Đêm đông 2026, văn phòng vắng tanh. Một cậu dev ngồi OT, tay gõ từng dòng code cho kịp deadline: 5...</div>
                 <div><i>14/01/2026</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fb7wglhgavqdxj92rzgpj.jpeg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip">Scaling Read Tracking with Redis Bitmaps</a>
-                <div>A friend recently came to me with a problem. They had designed a feature to track whether each user...</div>
-                <div><i>16/09/2025</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o">AWS Lambda with Go - How to Build, Deploy, and...</a>
-                <div>Build, Deploy, and Invoke AWS Lambda Functions in Golang            1. Initialize Lambda...</div>
-                <div><i>20/08/2025</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/tracing-error-strack-in-golang-234o">Tracing error strack in Golang</a>
-                <div>Problem: No Stack Trace in Native Errors   Consider this Go snippet:    func function3()...</div>
-                <div><i>23/05/2025</i></div>
-            </td>
-        </tr>
-        <tr>
-            <td width="300px"><img src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fz4mwymfyiy1d2jgrweca.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/a-better-pkggodev-hip">A better pkg.go.dev</a>
-                <div>About pkgo.dev   I have never been able to read a package&#39;s documentation on pkg.go.dev...</div>
-                <div><i>16/02/2025</i></div>
             </td>
         </tr>
 </table>
@@ -111,10 +111,10 @@ jobs:
 
 ### List
 
+- [BMAD cheat sheet](https://dev.to/jacktt/bmad-cheat-sheet-5ab2) - 11/03/2026
+- [BMAD Quick Flow](https://dev.to/jacktt/bmad-quick-flow-15en) - 11/03/2026
+- [BMAD Standard Workflow](https://dev.to/jacktt/bmad-standard-workflow-2kma) - 11/03/2026
+- [Understanding the Agents in the BMAD](https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o) - 11/03/2026
 - [Cô bé bán diêm phiên bản 2026](https://dev.to/jacktt/co-be-ban-diem-phien-ban-2026-618) - 14/01/2026
-- [Scaling Read Tracking with Redis Bitmaps](https://dev.to/jacktt/scaling-read-tracking-with-redis-bitmaps-3aip) - 16/09/2025
-- [AWS Lambda with Go - How to Build, Deploy, and...](https://dev.to/jacktt/aws-lambda-with-go-how-to-build-deploy-and-invoke-1p0o) - 20/08/2025
-- [Tracing error strack in Golang](https://dev.to/jacktt/tracing-error-strack-in-golang-234o) - 23/05/2025
-- [A better pkg.go.dev](https://dev.to/jacktt/a-better-pkggodev-hip) - 16/02/2025
 
-*Updated at: 2026-03-12T03:10:29Z*
+*Updated at: 2026-03-12T07:12:03Z*
