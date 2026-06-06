@@ -117,4 +117,4 @@ jobs:
 - [BMAD Standard Workflow](https://dev.to/jacktt/bmad-standard-workflow-2kma) - 11/03/2026
 - [Understanding the Agents in the BMAD](https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o) - 11/03/2026
 
-*Updated at: 2026-06-05T20:08:30Z*
+*Updated at: 2026-06-06T04:18:16Z*
