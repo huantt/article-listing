@@ -69,6 +69,14 @@ jobs:
         <tr>
             <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
             <td>
+                <a href="https://dev.to/jacktt/how-i-segmented-millions-of-users-in-just-a-few-milliseconds-4hmd">How I Segmented Millions of Users in Just a Few...</a>
+                <div>User segmentation requirement   Imagine you need to send a push notification to users who...</div>
+                <div><i>03/08/2026</i></div>
+            </td>
+        </tr>
+        <tr>
+            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
+            <td>
                 <a href="https://dev.to/jacktt/graphql-la-gi-tai-sao-nen-dung-cho-social-app-ihj">GraphQL là gì — Tại sao nên dùng cho Social...</a>
                 <div>GraphQL là gì — Tại sao nên dùng cho Social App?               1. GraphQL là gì?   GraphQL...</div>
                 <div><i>21/05/2026</i></div>
@@ -98,23 +106,15 @@ jobs:
                 <div><i>11/03/2026</i></div>
             </td>
         </tr>
-        <tr>
-            <td width="300px"><img src="data/images/default-thumbnail.png" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o">Understanding the Agents in the BMAD</a>
-                <div>BMAD Agents   BMAD uses a team of specialized agents, each representing a distinct role in...</div>
-                <div><i>11/03/2026</i></div>
-            </td>
-        </tr>
 </table>
 
 
 ### List
 
+- [How I Segmented Millions of Users in Just a Few...](https://dev.to/jacktt/how-i-segmented-millions-of-users-in-just-a-few-milliseconds-4hmd) - 03/08/2026
 - [GraphQL là gì — Tại sao nên dùng cho Social...](https://dev.to/jacktt/graphql-la-gi-tai-sao-nen-dung-cho-social-app-ihj) - 21/05/2026
 - [BMAD cheat sheet](https://dev.to/jacktt/bmad-cheat-sheet-5ab2) - 11/03/2026
 - [BMAD Quick Flow](https://dev.to/jacktt/bmad-quick-flow-15en) - 11/03/2026
 - [BMAD Standard Workflow](https://dev.to/jacktt/bmad-standard-workflow-2kma) - 11/03/2026
-- [Understanding the Agents in the BMAD](https://dev.to/jacktt/understanding-the-agents-in-the-bmad-235o) - 11/03/2026
 
-*Updated at: 2026-08-03T15:12:47Z*
+*Updated at: 2026-08-03T19:54:36Z*
