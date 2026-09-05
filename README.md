@@ -117,4 +117,4 @@ jobs:
 - [BMAD Quick Flow](https://dev.to/jacktt/bmad-quick-flow-15en) - 11/03/2026
 - [BMAD Standard Workflow](https://dev.to/jacktt/bmad-standard-workflow-2kma) - 11/03/2026
 
-*Updated at: 2026-09-04T20:43:45Z*
+*Updated at: 2026-09-05T04:22:00Z*
